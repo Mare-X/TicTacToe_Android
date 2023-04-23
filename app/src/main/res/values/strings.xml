@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TicTacToe_PD1_MC</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
